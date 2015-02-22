@@ -19,7 +19,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="com.example.daniel.reevochat.chat.view.ChatActivity" />
+        <activity android:name="com.example.daniel.reevochat.chat.ChatActivity" />
 
     </application>
 

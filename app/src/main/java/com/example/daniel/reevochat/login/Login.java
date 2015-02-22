@@ -5,7 +5,7 @@ import android.content.Intent;
 import android.os.Bundle;
 
 import com.example.daniel.reevochat.R;
-import com.example.daniel.reevochat.chat.view.ChatActivity;
+import com.example.daniel.reevochat.chat.ChatActivity;
 
 public class Login extends Activity {
 

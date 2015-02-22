@@ -101,7 +101,7 @@ public class EventToken {
     }
 
     /**
-     * Extract prefix part of messgae , inc offset
+     * Extract prefix part of message , inc offset
      *
      * @param data
      */
